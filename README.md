@@ -6,4 +6,4 @@ A Claude skill that helps with practical money ideas, savings, and income strate
 **How to use:**
 Give Claude the link to this repository.
 
-https://github.com/engg.asim.sscl-maker/claude-secret-money
+https://github.com/enggasimsscl-maker/claude-secret-money
